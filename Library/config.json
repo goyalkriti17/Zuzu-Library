@@ -1,0 +1,8 @@
+{
+
+    "token": {
+    "secret": "secretapplication",
+        "expiresInSeconds": "3600"
+
+    }
+}
