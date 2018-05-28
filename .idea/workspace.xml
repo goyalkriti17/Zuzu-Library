@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b404409e-2b8e-46ed-a501-87c6b114d794" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Library/config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/middleware/token.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/models/book.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/models/user.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/routes/books.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/routes/routes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/routes/users.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/middleware/token.js" beforeDir="false" afterPath="$PROJECT_DIR$/Library/middleware/token.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -38,17 +30,17 @@
           <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="255">
-                  <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+                <state relative-caret-position="334">
+                  <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="token.js" pinned="false" current-in-tab="false">
+          <file leaf-file-name="token.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/Library/middleware/token.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="199">
-                  <caret line="121" column="1" lean-forward="true" selection-start-line="121" selection-start-column="1" selection-end-line="121" selection-end-column="1" />
+                <state relative-caret-position="469">
+                  <caret line="136" lean-forward="true" selection-start-line="136" selection-end-line="136" />
                 </state>
               </provider>
             </entry>
@@ -62,11 +54,11 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="book.js" pinned="false" current-in-tab="true">
+          <file leaf-file-name="book.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Library/models/book.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="225">
-                  <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+                <state relative-caret-position="255">
+                  <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
                 </state>
               </provider>
             </entry>
@@ -78,17 +70,17 @@
           <file leaf-file-name="routes.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Library/routes/routes.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="375">
-                  <caret line="25" column="6" lean-forward="true" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
+                <state relative-caret-position="105">
+                  <caret line="7" selection-start-line="7" selection-end-line="7" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="books.js" pinned="false" current-in-tab="true">
+          <file leaf-file-name="books.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Library/routes/books.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="409">
-                  <caret line="122" selection-start-line="122" selection-end-line="122" />
+                <state relative-caret-position="300">
+                  <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
                   <folding>
                     <element signature="e#1133#2707#0" />
                   </folding>
@@ -96,7 +88,7 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="users.js" pinned="false" current-in-tab="false">
+          <file leaf-file-name="users.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/Library/routes/users.js">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="915">
@@ -125,6 +117,7 @@
       <find>req.resume()</find>
       <find>CONFIG</find>
       <find>username</find>
+      <find>conso</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -138,14 +131,14 @@
         <option value="$PROJECT_DIR$/Library/config.js" />
         <option value="$PROJECT_DIR$/Library/config.json" />
         <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/Library/routes/routes.js" />
         <option value="$PROJECT_DIR$/Library/models/books.js" />
         <option value="$PROJECT_DIR$/Library/models/book.js" />
         <option value="$PROJECT_DIR$/Library/routes/users.js" />
         <option value="$PROJECT_DIR$/Library/models/user.js" />
         <option value="$PROJECT_DIR$/app.js" />
-        <option value="$PROJECT_DIR$/Library/middleware/token.js" />
         <option value="$PROJECT_DIR$/Library/routes/books.js" />
+        <option value="$PROJECT_DIR$/Library/routes/routes.js" />
+        <option value="$PROJECT_DIR$/Library/middleware/token.js" />
       </list>
     </option>
   </component>
@@ -248,21 +241,22 @@
       <updated>1527156204863</updated>
       <workItem from="1527156206183" duration="1880000" />
       <workItem from="1527241987874" duration="15140000" />
-      <workItem from="1527331227756" duration="3297000" />
+      <workItem from="1527331227756" duration="4358000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20317000" />
+    <option name="totallyTimeSpent" value="21378000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -275,7 +269,6 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -393,22 +386,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Library/routes/routes.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="6" lean-forward="true" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Library/middleware/token.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="121" column="1" lean-forward="true" selection-start-line="121" selection-start-column="1" selection-end-line="121" selection-end-column="1" />
+        <state relative-caret-position="334">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
@@ -419,6 +405,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Library/routes/books.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+          <folding>
+            <element signature="e#1133#2707#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Library/models/book.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Library/routes/users.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="915">
@@ -426,20 +429,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Library/models/book.js">
+    <entry file="file://$PROJECT_DIR$/Library/middleware/token.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Library/routes/books.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
-          <caret line="122" selection-start-line="122" selection-end-line="122" />
-          <folding>
-            <element signature="e#1133#2707#0" />
-          </folding>
+        <state relative-caret-position="469">
+          <caret line="136" lean-forward="true" selection-start-line="136" selection-end-line="136" />
         </state>
       </provider>
     </entry>
